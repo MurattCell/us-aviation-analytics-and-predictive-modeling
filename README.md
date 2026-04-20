@@ -1,4 +1,6 @@
-
+![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 # us-aviation-analytics-and-predictive-modeling
 End-to-End US Flight Delay Prediction &amp; Data Analytics Project (2016-2017) using BigQuery, Power BI, and Machine Learning
 # ✈️ US Flight Analytics & Predictive Modeling (2016-2017)
