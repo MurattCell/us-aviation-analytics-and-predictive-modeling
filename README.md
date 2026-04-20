@@ -62,6 +62,12 @@ Gerçekleşen gecikme süreleri (gri sütunlar) ile yapay zeka modelinin tahminl
 <img width="719" height="403" alt="4" src="https://github.com/user-attachments/assets/29215f01-b3b3-4e37-a8ff-f1b4b5e9791e" />
 
 
+### 🗄️ Veri Kaynağı (Dataset)
+Bu projenin analizinde kullanılan orijinal veri setine Kaggle profilim üzerinden ulaşabilirsiniz:
+
+[![Kaggle Dataset](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](BURAYA_KAGGLE_LINKINI_YAPISTIR)
+
+
 ![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
