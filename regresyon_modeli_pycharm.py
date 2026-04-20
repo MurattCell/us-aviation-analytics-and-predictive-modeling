@@ -16,8 +16,8 @@ import matplotlib.pyplot as plt
 
 
 # BAĞLANTI AYARI
-#os.environ[...]: key.json Google servislerine tanıtarak "Ben bu projeye erişmeye yetkiliyim" demek
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r"C:\Users\halil\OneDrive\Desktop\key.json"
+# Kendi lokalinizde çalıştırırken JSON anahtarınızın dosya yolunu buraya girin
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "google_cloud_api_key_yolunuzu_buraya_yazin.json"
 project_id = "stone-arch-474621-h4"
 client = bigquery.Client(project=project_id) # : BigQuery ile konuşacak olan elçiyi oluşturur
 
