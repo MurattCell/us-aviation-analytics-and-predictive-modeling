@@ -1,5 +1,37 @@
+
 # us-aviation-analytics-and-predictive-modeling
 End-to-End US Flight Delay Prediction &amp; Data Analytics Project (2016-2017) using BigQuery, Power BI, and Machine Learning
+# ✈️ US Flight Analytics & Predictive Modeling (2016-2017)
+
+[🇹🇷 Türkçe versiyon için aşağıya kaydırın](#türkçe-versiyon)
+
+This repository contains an end-to-end data analytics and machine learning project based on over 11 million domestic US flights from 2016 and 2017. The main goal of this project is not just to report historical data, but to predict future flight cancellations and delay durations using machine learning models.
+
+## 🛠️ Tech Stack & Workflow
+* **Data Extraction & Transformation:** Processed 11+ million rows of raw aviation data using **Google BigQuery**. Cleaned and prepared the dataset for modeling.
+* **Machine Learning:** Built classification models to predict flight cancellations and regression models to estimate delay times in minutes.
+* **Data Visualization & BI:** Designed an interactive, dark-themed **Power BI** dashboard. Used DAX and bookmarks to create a web-app-like user experience for executive reporting.
+
+## 📊 Key Findings & Model Performance
+* **Historical Insight:** The overall On-Time Performance (OTP) is 81.52%. The most significant cause of delays is "Late Aircraft" (cascading delays), accounting for 37% of all issues.
+* **Cancellation Prediction:** The classification model achieved an **82% Accuracy** rate in identifying flights with a high risk of cancellation.
+* **Delay Prediction:** The regression model forecasts actual delay times with a Mean Absolute Error (**MAE**) of only **10.2 minutes**.
+
+## 📸 Dashboard Previews
+
+### 1. Executive Performance Overview
+A high-level view of airline OTP, delay causes, and the busiest airports.
+<img width="720" height="544" alt="1" src="https://github.com/user-attachments/assets/5568776e-23bd-48bb-864d-f44295cf1e78" />
+
+
+### 2. Machine Learning: Cancellation Radar
+Confusion matrix and prediction distribution showing how the model flags high-risk flights.
+<img width="1275" height="719" alt="3 5" src="https://github.com/user-attachments/assets/1e0afbce-394b-4e41-ac90-839a48649bcc" />
+
+### 3. Predictive Delay Analysis
+Comparing actual historical delays (gray bars) against the machine learning model's predictions (red line).
+<img width="719" height="403" alt="4" src="https://github.com/user-attachments/assets/4e72c7da-8bce-4562-9ee8-f8d836cc5c4f" />
+
 ---
 # 🇹🇷 ABD Uçuş Analitiği ve Gecikme Tahmini (2016-2017)
 
