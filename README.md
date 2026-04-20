@@ -1,6 +1,3 @@
-![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 # us-aviation-analytics-and-predictive-modeling
 End-to-End US Flight Delay Prediction &amp; Data Analytics Project (2016-2017) using BigQuery, Power BI, and Machine Learning
 # ✈️ US Flight Analytics & Predictive Modeling (2016-2017)
@@ -63,4 +60,6 @@ Modelin riskli uçuşları nasıl sınıflandırdığını gösteren doğruluk a
 ### 3. Gecikme Tahmini Analizi
 Gerçekleşen gecikme süreleri (gri sütunlar) ile yapay zeka modelinin tahminlerinin (kırmızı çizgi) karşılaştırması.
 <img width="719" height="403" alt="4" src="https://github.com/user-attachments/assets/29215f01-b3b3-4e37-a8ff-f1b4b5e9791e" />
-
+![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
