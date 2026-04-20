@@ -65,7 +65,7 @@ Gerçekleşen gecikme süreleri (gri sütunlar) ile yapay zeka modelinin tahminl
 ### 🗄️ Veri Kaynağı (Dataset)
 Bu projenin analizinde kullanılan orijinal veri setine Kaggle profilim üzerinden ulaşabilirsiniz:
 
-[![Kaggle Dataset](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](BURAYA_KAGGLE_LINKINI_YAPISTIR)
+[![Kaggle Dataset](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)]([BURAYA_KAGGLE_LINKINI_YAPISTIR](https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018?select=2016.csv))
 
 
 ![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
